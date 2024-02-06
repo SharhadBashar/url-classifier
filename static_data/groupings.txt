@@ -1,0 +1,50 @@
+browser_family = {
+    'web crawlers': ['AdsBot-Google', 'FacebookExternalHit/1.1', 
+                     'Google Wireless Transcoder', 'Googlebot-Mobile', 
+                     'Googlebot/2.1', 'Mediapartners-Google'],
+
+    'miscellaneous': ['Android HttpURLConnection', 'Apple Mail', 
+                      'Gmail image proxy', 'Google Wireless Transcoder', 
+                      'Java', 'Puffin', 'Python-requests', 'Thunderbird'],
+
+    'major browsers': ['Chrome', 'Chromium', 'Firefox', 'IE', 'Opera', 'Safari'],
+
+    'mobile browsers': ['Android browser', 'BlackBerry Browser', 'Chrome Mobile', 
+                        'IE Mobile', 'Maxthon mobile', 'Mobile Firefox', 'Mobile Safari', 
+                        'Opera Mini', 'Opera Mobile', 'UC Browser', 'Yandex.Browser mobile'],
+
+    'other browsers': ['Blazer', 'Bolt', 'Camino', 'Epiphany', 'Firebird (old name for Firefox)', 
+                       'Galeon', 'IBrowse', 'IceApe', 'IceDragon', 'IceWeasel', 'Iron', 'Konqueror', 
+                       'Maxthon', 'Mozilla', 'NetFront', 'Netscape Navigator', 'Nokia Web Browser', 
+                       'Pale Moon', 'SeaMonkey', 'Silk', 'Sogou Explorer', 'Waterfox', 'Yandex.Browser', 'unknown'],
+
+    'specialized browsers': ['Kindle Browser', 'Outlook 2010', 'PS4 Web browser']
+}
+
+os = {
+    'Windows': ['Windows', 'Windows 7', 'Windows 8', 'Windows 8.1', 
+                'Windows 10', 'Windows Vista', 'Windows XP', 'Windows RT', 
+                'Windows NT', 'Windows 2003 Server', 'Windows 2000', 'Windows ME'],
+
+    'macOS': ['OS X (macOS)', 'OS X 10.4 Tiger', 'OS X 10.5 Leopard', 
+              'OS X 10.6 Snow Leopard', 'OS X 10.7 Lion', 'OS X 10.8 Mountain Lion', 
+              'OS X 10.9 Mavericks', 'OS X 10.10 Yosemite'],
+
+    'Linux': ['Linux', 'Linux (Ubuntu)', 'Linux (Arch Linux)', 'Linux (Slackware)', 
+              'Linux (Fedora)', 'Linux (Gentoo)'],
+
+    'Chrome OS': ['Chrome OS'],
+
+    'iOS': ['iOS', 'iOS 4', 'iOS 5', 'iOS 6', 'iOS 7', 'iOS 8'],
+
+    'Android': ['Android', 'Android 1.0', 'Android 1.5 Cupcake', 
+                'Android 1.6 Donut', 'Android 2.0/1 Eclair', 
+                'Android 2.2.x Froyo', 'Android 2.3.x Gingerbread', 
+                'Android 4.0.x Ice Cream Sandwich', 'Android 4.1.x Jelly Bean', 
+                'Android 4.2 Jelly Bean', 'Android 4.3 Jelly Bean', 'Android 4.4 KitKat'],
+
+    'Windows Phone': ['Windows Phone', 'Windows Phone 7', 
+                      'Windows Phone 8', 'Windows Phone 8.1', 'Windows Mobile'],
+
+    'Other': ['unknown', 'Orbis OS (PlayStation OS)', 'JVM (Java)', 'JVM (Platform Micro Edition)', 'BlackBerry OS', 'Symbian OS', 'Palm OS', 'Ubuntu Touch', 'MeeGo', 'NetBSD']
+}
