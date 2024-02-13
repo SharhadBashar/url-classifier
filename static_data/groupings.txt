@@ -46,5 +46,6 @@ os = {
     'Windows Phone': ['Windows Phone', 'Windows Phone 7', 
                       'Windows Phone 8', 'Windows Phone 8.1', 'Windows Mobile'],
 
-    'Other': ['unknown', 'Orbis OS (PlayStation OS)', 'JVM (Java)', 'JVM (Platform Micro Edition)', 'BlackBerry OS', 'Symbian OS', 'Palm OS', 'Ubuntu Touch', 'MeeGo', 'NetBSD']
+    'Other': ['unknown', 'Orbis OS (PlayStation OS)', 'JVM (Java)', 'JVM (Platform Micro Edition)', 'BlackBerry OS', 'Symbian OS', 
+              'Palm OS', 'Ubuntu Touch', 'MeeGo', 'NetBSD']
 }
